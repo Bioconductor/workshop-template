@@ -5,10 +5,11 @@
 # More detailed instructions are available at:
 # https://carpentries.github.io/workshop-template/customization/index.html
 
-# Which carpentry is this ("swc", "dc", "lc", or "cp")?
+# Which carpentry is this ("swc", "dc", "lc", "bioc", or "cp")?
 # swc: Software Carpentry
 #  dc: Data Carpentry
 #  lc: Library Carpentry
+#  bioc: Bioconductor Carpentry
 #  cp: Carpentries (to use for instructor training for instance)
 #  incubator: for workshops teaching a lesson in The Carpentries Incubator
 # Note that for regular workshops, you should use:
@@ -18,7 +19,7 @@
 # When setting this field to "incubator", please uncomment the
 # incubator_lesson_site, incubator_pre_survey, and incubator_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "bioc"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
